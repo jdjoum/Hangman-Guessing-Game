@@ -1,0 +1,6 @@
+﻿  hangmanGame.c
+Z:\COP2220 CLASS (C)\Hangman Program 8\hangmanGame.c(35,8): warning C4101: 'outPtr': unreferenced local variable
+Z:\COP2220 CLASS (C)\Hangman Program 8\hangmanGame.c(39,7): warning C4101: 'userGuess': unreferenced local variable
+Z:\COP2220 CLASS (C)\Hangman Program 8\hangmanGame.c(40,7): warning C4101: 'guesses': unreferenced local variable
+Z:\COP2220 CLASS (C)\Hangman Program 8\hangmanGame.c(38,7): warning C4101: 'starword': unreferenced local variable
+  Hangman Program 8.vcxproj -> Z:\COP2220 CLASS (C)\Hangman Program 8\Debug\Hangman Program 8.exe
